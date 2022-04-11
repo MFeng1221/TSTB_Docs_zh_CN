@@ -24,6 +24,29 @@
    用户指导/数据集
    用户指导/评价指标
    用户指导/参数设置
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 开发者指导:
+   
+   开发者指导/代码风格
+   开发者指导/自定义数据集
+   开发者指导/自定义调控模型
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 入门教程:
+   
+   入门教程/运行TSTB中已复现的模型
+   入门教程/在TSTB中添加新模型
+   入门教程/可视化
+
+.. toctree::
+   :maxdepth: 1
+   :caption: API调用:
+   
+   API调用/API调用
+
    
 
 
